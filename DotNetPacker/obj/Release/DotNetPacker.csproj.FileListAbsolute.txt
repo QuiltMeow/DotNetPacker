@@ -1,0 +1,16 @@
+G:\VSProject\DotNetPacker\DotNetPacker\bin\Release\RFC2898AESCrypto.cs
+G:\VSProject\DotNetPacker\DotNetPacker\bin\Release\Unpacker.cs
+G:\VSProject\DotNetPacker\DotNetPacker\bin\Release\DotNetPacker.exe.config
+G:\VSProject\DotNetPacker\DotNetPacker\bin\Release\DotNetPacker.exe
+G:\VSProject\DotNetPacker\DotNetPacker\bin\Release\DotNetPacker.pdb
+G:\VSProject\DotNetPacker\DotNetPacker\bin\Release\IconExtractor.dll
+G:\VSProject\DotNetPacker\DotNetPacker\bin\Release\IconExtractor.xml
+G:\VSProject\DotNetPacker\DotNetPacker\obj\Release\DotNetPacker.VersionSetting.resources
+G:\VSProject\DotNetPacker\DotNetPacker\obj\Release\DotNetPacker.AboutForm.resources
+G:\VSProject\DotNetPacker\DotNetPacker\obj\Release\DotNetPacker.MainForm.resources
+G:\VSProject\DotNetPacker\DotNetPacker\obj\Release\DotNetPacker.Properties.Resources.resources
+G:\VSProject\DotNetPacker\DotNetPacker\obj\Release\DotNetPacker.csproj.GenerateResource.cache
+G:\VSProject\DotNetPacker\DotNetPacker\obj\Release\DotNetPacker.csproj.CoreCompileInputs.cache
+G:\VSProject\DotNetPacker\DotNetPacker\obj\Release\DotNetPacker.csproj.CopyComplete
+G:\VSProject\DotNetPacker\DotNetPacker\obj\Release\DotNetPacker.exe
+G:\VSProject\DotNetPacker\DotNetPacker\obj\Release\DotNetPacker.pdb
